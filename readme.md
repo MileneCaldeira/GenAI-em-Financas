@@ -148,7 +148,7 @@ Fonte 5: https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Financi
 Use a seção **"❓ Perguntas Feitas no NotebookLM"** como roteiro de exploração, começando pelos Fundamentos.
 
 ### 5. Gere o Audio Overview
-Clique em **"Generate"** no painel de Audio Overview para criar um podcast automático sobre o tema — ótimo para incluir no portfólio!
+Clique em **"Generate"** no painel de Audio Overview para criar um podcast automático sobre o tema!
 
 ---
 
@@ -166,7 +166,7 @@ genai-financas-notebooklm/
 │   └── perguntas-e-respostas.md ← Perguntas feitas e insights gerados
 │
 └── assets/
-    └── screenshot-notebook.png  ← Print do notebook (adicione após criar)
+    └── screenshot-notebook.png  ← Print do notebook
 ```
 
 ---
